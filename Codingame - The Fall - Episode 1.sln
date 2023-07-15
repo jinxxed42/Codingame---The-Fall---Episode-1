@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codingame - The Fall - Episode 1", "Codingame - The Fall - Episode 1.csproj", "{419A8FDB-7A5B-439C-92B3-EC30031C1E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419A8FDB-7A5B-439C-92B3-EC30031C1E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419A8FDB-7A5B-439C-92B3-EC30031C1E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419A8FDB-7A5B-439C-92B3-EC30031C1E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419A8FDB-7A5B-439C-92B3-EC30031C1E31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B68E1CB-67C6-4A88-81BA-679D0E3D633B}
+	EndGlobalSection
+EndGlobal
